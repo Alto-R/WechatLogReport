@@ -19,7 +19,7 @@
 
 1. **操作系统**：`chatlog.exe` 仅在 Windows 下可用；Python 脚本可在任意系统运行，只要能访问同一份导出的 JSON。
 2. **Python**：建议 3.11+。
-3. **依赖**：项目没有 `requirements.txt`，可以手动安装：
+3. **依赖**：安装：
 
    ```powershell
    python -m venv .venv
